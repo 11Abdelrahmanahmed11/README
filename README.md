@@ -14,7 +14,7 @@
 - 🏢 I'm a Soc Analyst
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with anything related to Soc Analyst.
-- 👨‍💻 Check out my linkedin at www.linkedin.com/in/abdel-rahman-hamouda to see some of my skills and experience.
+- 👨‍💻 Check out my linkedin at https://www.linkedin.com/in/abdelrahman-radwan-5b632730a/ to see some of my skills and experience.
 
 
 ### Connect with Me :
